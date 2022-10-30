@@ -4,4 +4,4 @@
 
   ## Whats new
    This wil be a joint venture among various students
-   
+    Apart from having many participants some of the testers will be familiar with the project
